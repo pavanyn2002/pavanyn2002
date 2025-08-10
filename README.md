@@ -2,7 +2,7 @@
 
 <h1 align="center">Pavan Y N</h1>
 <p align="center">
-  Bengaluru, India • <a href="mailto:pavannagu22@gmail.com">pavannagu22@gmail.com</a> • 6362623530 • <a href="https://linkedin.com/in/pavan-y-n">LinkedIn</a>
+  Bengaluru, India • <a href="mailto:pavannagu22@gmail.com">pavannagu22@gmail.com</a> • <a href="https://linkedin.com/in/pavan-y-n">LinkedIn</a>
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Linux-Friendly-2ea44f?style=flat-square" />
   <img src="https://img.shields.io/badge/On--call-Ready-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Observability-Prometheus%20%7C%20Grafana-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-Azure-232F3E?logo=amazonaws&logoColor=white&style=flat-square" />
 </p>
 
 ---
