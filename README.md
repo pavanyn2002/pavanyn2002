@@ -42,8 +42,6 @@
 
 ---
 
-## Selected Snippets
 
-<details>
-  <summary>Health check + graceful restart (Bash)</summary>
+
 
