@@ -19,7 +19,7 @@
 ---
 
 ## What I’m focused on right now
-- Cloud‑native ops with Kubernetes, Terraform, and AWS.
+- Cloud‑native ops with Kubernetes, Terraform, and Azure.
 - SLO‑driven alerting and actionable dashboards with Prometheus/Grafana.
 - Release automation patterns with GitLab/Jenkins and safe rollouts.
 
