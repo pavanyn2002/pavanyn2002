@@ -35,20 +35,7 @@
 * [cite_start]Oracle Cloud Infrastructure Certified DevOps Professional (1Z0-1109-25) [cite: 47]
 * [cite_start]AWS Cloud Practitioner Essentials [cite: 44]
 
----
 
-### GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=prussian&hide_border=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=prussian&hide_border=true" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=prussian&hide_border=true" alt="streak graph" />
-</div>
-
----
 
 <div align="center">
   <a href="https://linkedin.com/in/pavanyn">
