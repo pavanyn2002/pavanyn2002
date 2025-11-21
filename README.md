@@ -27,13 +27,13 @@
 ### Key Highlights
 
 **Application Support Engineer @ Verifone**
-* [cite_start]Reduced downtime by 15% by configuring monitoring dashboards with Prometheus and Grafana[cite: 20, 21].
-* [cite_start]Cut deployment time by 45% by optimizing Jenkins pipelines[cite: 23].
-* [cite_start]Decreased cloud costs by 20% for microservices by implementing Horizontal Pod Autoscaling (HPA)[cite: 24].
+* Reduced downtime by 15% by configuring monitoring dashboards with Prometheus and Grafana
+* Cut deployment time by 45% by optimizing Jenkins pipelines
+* Decreased cloud costs by 20% for microservices by implementing Horizontal Pod Autoscaling (HPA)
 
 **Certifications**
-* [cite_start]Oracle Cloud Infrastructure Certified DevOps Professional (1Z0-1109-25) [cite: 47]
-* [cite_start]AWS Cloud Practitioner Essentials [cite: 44]
+* Oracle Cloud Infrastructure Certified DevOps Professional (1Z0-1109-25) 
+* AWS Cloud Practitioner Essentials
 
 
 
